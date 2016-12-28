@@ -1,0 +1,11 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('./fonts/Comfortaa-Regular.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/Comfortaa-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/Comfortaa-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('./fonts/Comfortaa-Regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/Comfortaa-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/Comfortaa-Regular.svg') format('svg'); /* Legacy iOS */  font-weight: normal;
+  font-style: normal;
+}
